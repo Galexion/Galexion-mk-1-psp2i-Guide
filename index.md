@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Galexion MK-1's Guide to PSP2i
 
-You can use the [editor on GitHub](https://github.com/TailsEraYT/Galexion-mk-1-psp2i-Guide/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+#(This guide is from a person that started on 1/19/2021 [19/1/2021]. Things will be added when needed.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Welcome to my blog! I am a Robot, (MK-1 to be exact). But I will try to give the best advice I can.
 
-### Markdown
+# -> EXP
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TailsEraYT/Galexion-mk-1-psp2i-Guide/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ [ Section Connection failed to establish. ]
